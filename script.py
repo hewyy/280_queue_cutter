@@ -28,8 +28,8 @@ capabilities['acceptSslCerts'] = True
 capabilities['acceptInsecureCerts'] = True
 
 #locaton of the chrome driver
-#if you need a new vertion of the webcriver, go here: https://chromedriver.chromium.org/downloads
-filename = "C:\\Users\\hewbo\\AppData\\Local\\Programs\\Python\\chromedriver.exe"
+#if you need a new vertion of the webdriver, go here: https://chromedriver.chromium.org/downloads
+filename = "ADD THE LOCATION OF YOUR WEBDRIVER HERE"
 username = "ADD YOUR USERNAME HERE"
 password = "ADD YOUR PASSWORD HERE"
 name = "YOUR NAME"
