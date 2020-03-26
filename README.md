@@ -12,8 +12,11 @@ Chrome Webdriver
 
 ## How to use this script
 After installing Selenium and the Chrome Webdriver, you will need to link the location of your Chrome Webriver with my script.
-You can do this by replacing the location of your chromediriver.exe into the filename parameter (line 32)
-
+You can do this by replacing the location of your chromediriver.exe into the filename parameter (line 32).
+```
+EXAMPLE:
+filename = "C:\\User\\AppData\\Local\\Programs\\Python\\chromedriver.exe"
+```
 Now just enter your username, password, your name (this is the name that you'll show up on the queue with) and the help you need.
 
 
